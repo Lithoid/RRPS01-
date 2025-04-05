@@ -1,0 +1,17 @@
+# Ігнорування системних папок IDE
+.vscode/
+.idea/
+
+# Логи
+*.log
+
+# Node.js
+node_modules/
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Налаштування середовища
+.env
+.env.local
